@@ -1,4 +1,4 @@
-package AutumnRecruitLc;
+package AutumnRecruitLc.lc;
 
 import model.TreeNode;
 
